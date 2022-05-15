@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wangyuchen/workspace/MySylar/sylar/./singleton.h
+memory
+-
+
+/home/wangyuchen/workspace/MySylar/sylar/log.cc
+log.h
+/home/wangyuchen/workspace/MySylar/sylar/log.h
+map
+-
+iostream
+-
+functional
+-
+
+/home/wangyuchen/workspace/MySylar/sylar/log.h
+string
+-
+stdint.h
+-
+memory
+-
+list
+-
+sstream
+-
+fstream
+-
+vector
+-
+time.h
+-
+stdarg.h
+-
+map
+-
+./singleton.h
+/home/wangyuchen/workspace/MySylar/sylar/./singleton.h
+

@@ -1,0 +1,4 @@
+/home/wangyuchen/workspace/MySylar/CMakeFiles/rebuild_cache.dir
+/home/wangyuchen/workspace/MySylar/CMakeFiles/edit_cache.dir
+/home/wangyuchen/workspace/MySylar/CMakeFiles/sylar.dir
+/home/wangyuchen/workspace/MySylar/CMakeFiles/test.dir

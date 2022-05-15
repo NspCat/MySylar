@@ -1,0 +1,4 @@
+2022-05-14 22:29:30	ERROR	test macro error
+2022-05-14 22:29:30	ERROR	test macro error
+2022-05-14 22:29:30	ERROR	test macro fmt error aa
+2022-05-14 22:29:30	ERROR	test macro fmt error aa
